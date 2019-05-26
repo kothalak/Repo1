@@ -1,1 +1,2 @@
-this is my conflict file in master
+this is my conflict file in master.
+This is my fil6 in b1 branch.
